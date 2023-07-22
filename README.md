@@ -1,4 +1,6 @@
 # satellite-app
+![Screenshot 2023-07-22 130619](https://github.com/dhruvi47/satellite-app/assets/40015049/b04a4781-121f-4521-aa46-36f84359e5be)
+
 
 ## Project setup
 ```
